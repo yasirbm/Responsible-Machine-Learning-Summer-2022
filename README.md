@@ -32,41 +32,42 @@ Your model card must include the following sections: Intended use, Training data
 
 ### Content (13 pts.)
 * Intended use (2 pts.)
- * Describe the business value of your group's best remediated model
- * Describe how your group's best remediated model is designed to be used
- * Describe the intended users for your group's best remediated model
- * State whether your group's best remediated model can or cannot be used for any additional purposes
+  * Describe the business value of your group's best remediated model
+  * Describe how your group's best remediated model is designed to be used
+  * Describe the intended users for your group's best remediated model
+  * State whether your group's best remediated model can or cannot be used for any additional purposes
 * Training data (2 pts.)
- * State the source of training data
- * State how training data was divided into training and validation data
- * State the number of rows in training and validation data
- * Define the meaning of all training data columns
- * Define the meaning of all engineered columns
+  * State the source of training data
+  * State how training data was divided into training and validation data
+  * State the number of rows in training and validation data
+  * Define the meaning of all training data columns
+  * Define the meaning of all engineered columns
 * Evaluation data (2 pts.)
- * State the source of evaluation (or test) data
- * State the number of rows in evaluation (or test) data
- * State any dierences in columns between training and evaluation (or test) data
+  * State the source of evaluation (or test) data
+  * State the number of rows in evaluation (or test) data
+  * State any dierences in columns between training and evaluation (or test) data
 * Model details (2 pts.)
- * State the columns used as inputs in your group's best remediated model
- * State the columns used as targets in your group's best remediated model
- * State the type of your group's best remediated model
- * State the software used to implement your group's best remediated model
- * State the version of the modeling software for your group's best remediated model
- * State the hyperparameters or other settings of your group's best remediated model
+  * State the columns used as inputs in your group's best remediated model
+  * State the columns used as targets in your group's best remediated model
+  * State the type of your group's best remediated model
+  * State the software used to implement your group's best remediated model
+  * State the version of the modeling software for your group's best remediated model
+  * State the hyperparameters or other settings of your group's best remediated model
 * Quantitative analysis (3 pts.)
- * State the metrics used to evaluate your group's best remediated model
- * State the values of the metrics for training, validation, and evaluation (or test) data evaluation (or test) metrics come from the most recent class full evaluation results, link under Assignment 1.
- * Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.
- * Address other alternative models considered
+  * State the metrics used to evaluate your group's best remediated model
+  * State the values of the metrics for training, validation, and evaluation (or test) data evaluation (or test) metrics come from the most recent class full evaluation results, link under Assignment 1.
+  * Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.
+  * Address other alternative models considered
 * Ethical considerations (2 pts.)
- * Describe potential negative impacts of using your group's best remediated model:
+  * Describe potential negative impacts of using your group's best remediated model:
+   * Consider math or software problems
+   * Consider real-world risks: who, what, when and how?
+* Describe potential uncertainties relating to the impacts of using your group's best remediated model:
   * Consider math or software problems
   * Consider real-world risks: who, what, when and how?
-* Describe potential uncertainties relating to the impacts of using your group's best remediated model:
- * Consider math or software problems
- * Consider real-world risks: who, what, when and how?
 * Describe any unexpected or results encountered during training
 
 ### Grammar and spelling (1 pt.)
 * Correct grammar and punctuation ( 1/2 pt.)
 * Correct spelling ( 1/2 pt.)
+
