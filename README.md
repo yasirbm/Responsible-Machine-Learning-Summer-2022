@@ -9,26 +9,26 @@
 
 
 
-### 2 Instructions and Rubric.
+### WIP Instructions and Rubric.
 This is a pure technical writing assignment. Very little introduction, narrative, or conclusion text is necessary. You may make copious use of bullet points, charts, and tables. (But remember that all charts and tables should have descriptions!)
 
 Your model card must include the following sections: Intended use, Training data, Evaluation data, Model details, Quantitative analysis, Ethical considerations. The focus of the model card should be your best performing remediated model. You should briey address your other models as \alternative approaches" in the Quantitative analysis section, and point to why your main model is a better choice.
 
-### Rubric:
-* Structure (6 pts.)
-** Name and contact information for all group members. (Feel free to anonymize for this assignment. The idea for the real-world is to \sign" your work and make it easy to nd yourself if there are problems in the future, i.e., accountability) (1 pt.)
-** Clearly delineated sections for:
-*** Intended use ( 1/2 pt.)
-*** Training data ( 1/2 pt.)
-*** Evaluation data ( 1/2 pt.)
-*** Model details ( 1/2 pt.)
-*** Quantitative analysis ( 1/2 pt.)
-*** Ethical considerations ( 1/2 pt.)
-** Correct and informative external links (e.g., to training and evaluation data) ( 1/2 pt.)
-** Correct use and introduction of abbreviations ( 1/2 pt.)
-** Charts or tables:
-*** Meaningful and informative use of charts or tables ( 1/2 pt.)
-*** Proper description of charts or tables ( 1/2 pt.)
+### WIP Rubric:
+#### Structure (6 pts.)
+* Name and contact information for all group members. (Feel free to anonymize for this assignment. The idea for the real-world is to \sign" your work and make it easy to nd yourself if there are problems in the future, i.e., accountability) (1 pt.)
+* Clearly delineated sections for:
+  * Intended use ( 1/2 pt.)
+  * Training data ( 1/2 pt.)
+  * Evaluation data ( 1/2 pt.)
+  * Model details ( 1/2 pt.)
+  * Quantitative analysis ( 1/2 pt.)
+  * Ethical considerations ( 1/2 pt.)
+* Correct and informative external links (e.g., to training and evaluation data) ( 1/2 pt.)
+* Correct use and introduction of abbreviations ( 1/2 pt.)
+* Charts or tables:
+  * Meaningful and informative use of charts or tables ( 1/2 pt.)
+  * Proper description of charts or tables ( 1/2 pt.)
 
 
 
