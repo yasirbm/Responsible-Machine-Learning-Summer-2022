@@ -18,12 +18,12 @@ Your model card must include the following sections: Intended use, Training data
 ### Structure (6 pts.)
 * Name and contact information for all group members. (Feel free to anonymize for this assignment. The idea for the real-world is to \sign" your work and make it easy to nd yourself if there are problems in the future, i.e., accountability) (1 pt.)
 * Clearly delineated sections for:
- * Intended use ( 1/2 pt.)
- * Training data ( 1/2 pt.)
- * Evaluation data ( 1/2 pt.)
- * Model details ( 1/2 pt.)
- * Quantitative analysis ( 1/2 pt.)
- * Ethical considerations ( 1/2 pt.)
+  * Intended use ( 1/2 pt.)
+  * Training data ( 1/2 pt.)
+  * Evaluation data ( 1/2 pt.)
+  * Model details ( 1/2 pt.)
+  * Quantitative analysis ( 1/2 pt.)
+  * Ethical considerations ( 1/2 pt.)
 * Correct and informative external links (e.g., to training and evaluation data) ( 1/2 pt.)
 * Correct use and introduction of abbreviations ( 1/2 pt.)
 * Charts or tables:
