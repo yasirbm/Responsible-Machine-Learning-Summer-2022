@@ -16,7 +16,7 @@ Your model card must include the following sections: Intended use, Training data
 
 ## WIP Rubric:
 ### Structure (6 pts.)
-Abid Shafiullah (abidshafi@gwu.edu) / Somendar Chaudhary (somender@gwu.edu) / Yasir Mohammad (yasir@gwu.edu)
+Abid Shafiullah (abidshafi@gwu.edu) - Somendar Chaudhary (somender@gwu.edu) - Yasir Mohammad (yasir@gwu.edu)
 * Clearly delineated sections for:
   * Intended use ( 1/2 pt.)
   * Training data ( 1/2 pt.)
