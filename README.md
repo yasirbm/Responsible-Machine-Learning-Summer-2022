@@ -56,11 +56,6 @@ The authors spent 7 weeks developing interpretable machine learning models as pa
 | **agelt62E**| demographic information | int | whether a person is below the age of 62 (1) or not below the age of 62 (0) |
 | **row_id**| ID | int | unique row indentifier |
 
-  **Engineered Columns:**
-  * phat and r were engineered for residual analysis.
-  * phat: It is a numeric input that helps to predict probabilities of high-priced mortgage 
-  * r: It is a numeric input and is log loss residual for the predicted probabilities.
-
   **Evaluation Data:**
   * Soure of evaluation data: Home Mortgage Disclosure Act (HMDA) data in the class repository https://github.com/jphall663/GWU_rml/tree/master/assignments/data
   * 19,830 rows of data
